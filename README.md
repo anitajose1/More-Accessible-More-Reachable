@@ -16,13 +16,10 @@ While refactoring, I did the following:
 * Added comments to the CSS file
 * Added a title for the page
 
-## Location and Screenshot
 
 The deployed website can be viewed at: https://anitajose1.github.io/Ye-Shall-Find/
 
-```md
-![deployed-website-screenshot](./assets/images/screenshot.png)
-```
+<img src="./assets/images/screenshot.png" alt="screenshot of deployed website" />
 
 ## Credits
 
